@@ -3,9 +3,11 @@
 **RECALLCODE** is an adaptive AI-powered coding practice mentor for students that doesn't just explain code—it learns how they fail, remembers it, and adjusts its teaching strategy over time.
 
 Built for the **AI Agents with Memory** hackathon, this project demonstrates a persistent **Hindsight memory layer** that stores, reflects, and recalls student behavior patterns to provide personalized guidance.
+---
+## demo
+https://github.com/user-attachments/assets/cc99649a-313f-45d3-8f18-9400723946f5
 
 ---
-
 ## 🚀 The Core Idea: Why Memory Matters?
 
 Generic AI coding assistants are great at giving answers, but they lack context. They don't remember that a student *always* forgets base cases in recursion or *repeatedly* makes off-by-one errors in array loops.
