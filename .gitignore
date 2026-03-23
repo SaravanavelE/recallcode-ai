@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.env*
+!.env.example
+
+# Database
+recallcode.db
+*.sqlite
+
+# Node
+node_modules/
+.next/
+dist/
+out/
+build/
+.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Large files
+*.mp4
+*.zip
+*.tar.gz
